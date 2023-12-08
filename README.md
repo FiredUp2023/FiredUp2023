@@ -5,7 +5,7 @@
 - 👯 Exploring collaboration opportunities for Google Summer of Code (GSoC).
 - 🤔 Seeking guidance on mastering new technologies.
 - ⚡ Eager to connect with fellow enthusiasts and industry professionals.
-- 📫 Let's connect on Twitter(X): [mohits-twt.](https://twitter.com/mohits-twt)
+- 📫 Let's connect on Twitter(X): [mohits-twt.](https://twitter.com/mohits_twt)
 - ⚡ Lets Connect!
 
 <!--

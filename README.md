@@ -1,4 +1,4 @@
-## Welcome to Mohit Khatri's Profile👋
+## Welcome to Mohit's Profile👋
 
 - 🌱 I'm currently delving into the world of Web Development.
 - 🔭 Open to be engaged in various projects.

@@ -5,8 +5,8 @@
 - 👯 Exploring collaboration opportunities for Google Summer of Code (GSoC).
 - 🤔 Seeking guidance on mastering new technologies.
 - ⚡ Eager to connect with fellow enthusiasts and industry professionals.
-- 📫 Let's connect on Twitter(X): [FiredUp20.](https://twitter.com/FiredUp20)
-- 💬 Ask me anything!
+- 📫 Let's connect on Twitter(X): [mohits-twt.](https://twitter.com/mohits-twt)
+- ⚡ Lets Connect!
 
 <!--
 **FiredUp2023/FiredUp2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

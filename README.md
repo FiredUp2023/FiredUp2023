@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **new projects**
 
-- 🤝 I’m looking for help with **building my skills**
+- 🤝 I’m looking for help for **improving my skills**
 
 - 💬 Ask me about **anything**
 

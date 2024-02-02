@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohits_twt" target="blank"><img src="https://img.shields.io/twitter/follow/mohits_twt?logo=twitter&style=for-the-badge" alt="mohits_twt" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **new projects**
 

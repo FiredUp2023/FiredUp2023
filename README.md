@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h3 align="center">A passionate full stack developer building with React and NextJS.</h3>
+<h3 align="center">MERN | NextJS | Tailwind | Typescript</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m learning new stuffs everyday.
 
-- 👯 I’m looking to collaborate on **new projects**
+- 👯 I’m looking to collaborate on **new projects** and open to work.
 
-- 🤝 I’m looking for help for **improving my skills**
+- 🤝 I’m looking for help for in finding new opportunities.
 
 - 💬 Ask me about **anything**
+
+- I use Vim, btw!
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -63,10 +66,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
 </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohits-git&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mohits-git" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohits-git&show_icons=true&locale=en&theme=algolia" alt="mohits-git" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohits-git&theme=algolia" alt="mohits-git" /></p>
+<img height="12" />
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohits-git&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mohits-git" />
+<img width="20" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohits-git&theme=algolia" alt="mohits-git" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohits-git&label=Profile%20views&color=0e75b6&style=flat" alt="mohits-git" /> </p>

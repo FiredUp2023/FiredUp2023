@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything**
 
-- I use Vim, btw!
+- 💻 I use Vim, btw!
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -37,6 +37,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
